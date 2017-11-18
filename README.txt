@@ -1,3 +1,3 @@
-EGG HATCHER
+**EGG HATCHER**
 
 Software and hardware implementation
